@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|c:\\users\\2ds\\desktop\\exemplo1ds\\exemplo1ds\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|solutionrelative:exemplo1ds\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|c:\\users\\2ds\\desktop\\exemplo1ds\\exemplo1ds\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|solutionrelative:exemplo1ds\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|c:\\users\\2ds\\desktop\\exemplo1ds\\exemplo1ds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|solutionrelative:exemplo1ds\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|c:\\users\\2ds\\desktop\\exemplo1ds\\exemplo1ds\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|solutionrelative:exemplo1ds\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|c:\\users\\2ds\\desktop\\exemplo1ds\\exemplo1ds\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|solutionrelative:exemplo1ds\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|c:\\users\\2ds\\desktop\\exemplo1ds\\exemplo1ds\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|solutionrelative:exemplo1ds\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|c:\\users\\2ds\\desktop\\exemplo1ds\\exemplo1ds\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|solutionrelative:exemplo1ds\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|c:\\users\\2ds\\desktop\\exemplo1ds\\exemplo1ds\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{991D5239-492F-4627-A349-2D80D1C803BB}|exemplo1ds\\exemplo1ds.csproj|solutionrelative:exemplo1ds\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "exemplo1ds\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Models\\Pessoa.cs",
+              "RelativeToolTip": "exemplo1ds\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:26:53.339Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "exemplo1ds\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "exemplo1ds\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:09:20.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "exemplo1ds\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "exemplo1ds\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-05-23T12:08:48.053Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "exemplo1ds\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "exemplo1ds\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:07:48.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "exemplo1ds\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "exemplo1ds\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvx0AAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-23T12:07:11.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "exemplo1ds\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "exemplo1ds\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:06:32.147Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Program.cs",
+              "RelativeDocumentMoniker": "exemplo1ds\\Program.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Program.cs",
+              "RelativeToolTip": "exemplo1ds\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:04:55.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "exemplo1ds\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "exemplo1ds\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-23T12:04:44.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
