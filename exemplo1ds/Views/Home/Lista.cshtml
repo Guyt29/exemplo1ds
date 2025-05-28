@@ -1,0 +1,29 @@
+﻿@model exemplo1ds.Models.Pessoa
+
+@{
+	ViewBag.Title = "Lista de clientes cadastrados";
+}
+
+<!DOCTYPE html>
+
+<h2>Clientes Cadastrados</h2>
+<div>
+	<b> @Html.LabelFor(X => X.PessoaId) </b>
+</div>
+<div>
+	@Model.PessoaId
+</div>
+<div>
+	<b>@Html.LabelFor(X => X.Nome)</b>
+</div>
+<div>
+	@Model.Nome
+</div>
+<div>
+	<b>@Html.LabelFor(X => X.Nome)</b>
+</div>
+<div>
+	@Model.Email
+</div>
+
+@Html.ActionLink("Voltar", "Index", "Home")

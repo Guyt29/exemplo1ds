@@ -2,7 +2,7 @@
   "Files": [
     {
       "Id": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\exemplo1ds.bundle.scp.css",
-      "PackagePath": "staticwebassets\\exemplo1ds.bundle.scp.css"
+      "PackagePath": "staticwebassets\\exemplo1ds.v6h2988k1i.bundle.scp.css"
     },
     {
       "Id": "C:\\Users\\2ds\\Desktop\\exemplo1ds\\exemplo1ds\\wwwroot\\css\\site.css",
@@ -255,6 +255,10 @@
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.exemplo1ds.props",
       "PackagePath": "buildTransitive\\exemplo1ds.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.exemplo1ds.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
     },
     {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.exemplo1ds.Microsoft.AspNetCore.StaticWebAssets.props",

@@ -28,3 +28,8 @@ C:\Users\2ds\Desktop\exemplo1ds\exemplo1ds\obj\Debug\net8.0\refint\exemplo1ds.dl
 C:\Users\2ds\Desktop\exemplo1ds\exemplo1ds\obj\Debug\net8.0\exemplo1ds.pdb
 C:\Users\2ds\Desktop\exemplo1ds\exemplo1ds\obj\Debug\net8.0\exemplo1ds.genruntimeconfig.cache
 C:\Users\2ds\Desktop\exemplo1ds\exemplo1ds\obj\Debug\net8.0\ref\exemplo1ds.dll
+C:\Users\2ds\Desktop\exemplo1ds\exemplo1ds\bin\Debug\net8.0\exemplo1ds.staticwebassets.endpoints.json
+C:\Users\2ds\Desktop\exemplo1ds\exemplo1ds\obj\Debug\net8.0\exemplo1ds.sourcelink.json
+C:\Users\2ds\Desktop\exemplo1ds\exemplo1ds\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\2ds\Desktop\exemplo1ds\exemplo1ds\obj\Debug\net8.0\staticwebassets\msbuild.exemplo1ds.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\2ds\Desktop\exemplo1ds\exemplo1ds\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
